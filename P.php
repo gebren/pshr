@@ -211,7 +211,7 @@ h9 {
              <img src="f6.jpg" alt=""height="80" width="80"><br>
             </div>
             <li><a href="p.php">Home</a></li>
-            <li><a href="Office list.php">በወረዳው ያሉ ጽ/ቤቶች ዝርዝር</a></li>
+            <li><a href="Office list.html">በወረዳው ያሉ ጽ/ቤቶች ዝርዝር</a></li>
             <li><a href="About.php">About</a></li>
 			 <li><a href="Contact.php">Contact</a></li>
 			 	<li><a href="Tutorials.php">Tutorials</a></li>
